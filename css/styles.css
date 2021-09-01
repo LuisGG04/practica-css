@@ -43,7 +43,7 @@ body{
 .nav__hero{
     color: #fff;
     height: 70px;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
 }
 
 .nav__container{
